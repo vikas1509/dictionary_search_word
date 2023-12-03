@@ -1,0 +1,15 @@
+.navBar{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+   
+}
+.leftNav{
+    margin: auto 5%;
+}
+.rightNav{
+    display: flex;
+    gap: 30px;
+    margin: auto 5%;
+}
